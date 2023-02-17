@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "AzureWebJobsDashboard": {
+      "connectionId": "ConnectionStrings:AzureWebJobsDashboard",
+      "type": "storage.emulator"
+    },
+    "AzureWebJobsStorage": {
+      "connectionId": "ConnectionStrings:AzureWebJobsStorage",
+      "type": "storage.emulator"
+    },
+    "PrimaryAppConnection": {
+      "connectionId": "ConnectionStrings:PrimaryAppConnection",
+      "type": "mssql"
+    }
+  }
+}

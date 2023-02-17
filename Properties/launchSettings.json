@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Fec.WebJob.FecSubmission": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
